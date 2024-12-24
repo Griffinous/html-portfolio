@@ -1,4 +1,5 @@
 # html-portfolio
 Test and see what i learn
-## Repository Link
-Check out this project on GitHub: [Repository Name](https://github.com/Griffinous/html-portfolio)
+## Live Demo
+Check out the live site: [View Here](https://username.github.io/repository-name/)
+
